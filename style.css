@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(106, 199, 199);
+}
+.navbar-nav{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 100px;
+}
+.navbar-nav a{
+    color: rgb(37, 35, 35);
+}
+.footer .row{
+    background-color: rgb(193, 172, 144);
+    margin: 0px;
+    border-radius: 0px;
+    width: 100%;
+}
+.footer h4{
+    font-size: 30px;
+}
+.footer li{
+    font-size: 18px;
+}
+.footer a{
+    color: black;
+    text-decoration: none;
+}
+.footer a:hover{
+    color: white;
+}
+/* contact page */
+.col h1{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.col h4{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.row{
+    background-color: rgb(106, 199, 199);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+iframe{
+    margin-top: 110px;
+    margin-left: 60px;
+}
+form input{
+    margin-left: 20px;
+}
+form label{
+    margin-left: 25px;
+}
+form textarea{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.icons{
+    margin-left: 60px;
+    color: rgb(78, 78, 221);
+}
+.icons a:hover{
+    color: black;
+}
+i{
+    font-size: 30px;
+    margin-top: 10px;  
+    margin-left: 10px; 
+}
+/* about page */
+.about .row{
+    margin-top: 0px;
+    background-color: rgb(224, 141, 141);
+}
+.col .animation{
+    margin-left: 270px;
+    margin-top: 50px;
+}
+.about p{
+    text-align: justify;
+    font-size: 18px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+/* home page */
+.flex{
+    width: 100%;
+    border-radius: 0px;
+}
+.flex .card-img{
+    width: 100%;
+    border-radius: 0px;
+}
+.flex a{
+    background-color: rgb(194, 68, 89);
+    margin-left: 650px;
+    border: none;
+    font-size: 25px;
+    color: black;
+}
+.container-1 .row{
+    background-color: white;
+    border-radius: 0px;
+    margin-left: 50px;
+}
+.container-1 .card-body{
+    text-align: center;
+    background-color: pink;
+}
+.container-1 .card-body button{
+    background-color: rgb(225, 85, 109);
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.container-1 .card-body button:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
